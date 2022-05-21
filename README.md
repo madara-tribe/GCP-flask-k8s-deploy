@@ -6,8 +6,7 @@ This MLops on GCP is for model training and test deploy to get model prediction.
 
 # GCP MLops overall
 
-<img src="https://user-images.githubusercontent.com/48679574/120217962-0cb33c80-c274-11eb-888c-1fa6a257ee42.jpg" width="700px">
-
+<img src="https://user-images.githubusercontent.com/48679574/169631329-065f0575-a803-463e-92e7-a24cfad9a783.jpg" width="700px">
 
 
 # from model train to deploy
