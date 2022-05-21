@@ -1,4 +1,4 @@
-# GCP-MLops for training
+# deploy kubernates with flask 
 
 ## abstract
 
